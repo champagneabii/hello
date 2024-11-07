@@ -14,7 +14,7 @@ public class HelloWorldController {
 
     public String getHelloWorld () {
 
-        return "<h1> Hello World Spring Boot! </h1>"; 
+        return "<h1> Hello Can! </h1>"; 
     }
 
     
